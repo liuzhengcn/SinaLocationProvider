@@ -1,0 +1,10 @@
+ABOUT THIS
+==========
+This application is supposed to provider an android network
+location provider to help android device find location via IP
+address. It will using Sina Weibo's open web service.
+
+
+AUTHOR
+======
+James Liu <ihopeso.cn@gmail.com>
